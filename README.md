@@ -21,7 +21,8 @@ A local, multimodal AI agent built using Google Gemini + MongoDB for retrieval, 
 ---
 
 ## 📁 Project Structure
-'''multimodal-gemini-agent/
+'''
+multimodal-gemini-agent/
 ├── config.py # Loads API keys + MongoDB connection
 ├── ingest.py # PDF ingestion + embedding
 ├── agents.py # Retrieval + multimodal agent logic
@@ -30,6 +31,7 @@ A local, multimodal AI agent built using Google Gemini + MongoDB for retrieval, 
 │ ├── docs/ # Place your PDF files here
 │ └── images/ # Optional: charts/images for analysis
 ├── .gitignore
-└── README.md'''
+└── README.md
+'''
 
 
